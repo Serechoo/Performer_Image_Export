@@ -1,0 +1,9 @@
+- id: Performer Image Export
+  name: Performer Image Export
+  metadata:
+    description: Runs a full performer image export and renames the files to the
+      Performer's name for easy reference.
+  version: 0.1
+  date: 2024-01-18 07:20:00
+  path: Performer_Image_Export.zip
+  sha256: null
