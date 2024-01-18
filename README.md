@@ -5,6 +5,6 @@ For installation, go to your Settings > Plugins > Add Source > Name: (Whatever y
 
 In Tasks > Plugin Tasks (at the bottom of the page) > Click the 'Export Performer Images' button.
 
-This will perform an export of all your performer images to {plugins}\Performer Image Extract\Performer Image Extract.
+This will perform an export of all your performer images to {plugins}\Performer Image Export\Performer Image Export
 
 Enjoy!
